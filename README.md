@@ -1,4 +1,6 @@
-# 🐧 LibreChat: Persian Domain-Specific RAG Pipeline
+[![CI Pipeline](https://github.com/a-abedin/librechat-persian-rag/actions/workflows/ci.yml/badge.svg)](https://github.com/a-abedin/librechat-persian-rag/actions/workflows/ci.yml)
+
+# LibreChat: Persian Domain-Specific RAG Pipeline
 
 > **Capstone Project:** Applied LLM Applications & Domain-Specific Retrieval-Augmented Generation (RAG)
 

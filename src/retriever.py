@@ -1,6 +1,12 @@
 import os
 from typing import List
-from langchain.retrievers import EnsembleRetriever
+try:
+  from langchain.retrievers import EnsembleRetriever
+except (ImportError, ModuleNotFoundError):
+  try:
+    from langchain_classic.retrievers import EnsembleRetriever
+  except (ImportError, ModuleNotFoundError):
+    from langchain_community.retrievers import EnsembleRetriever
 from langchain_chroma import Chroma
 from langchain_community.retrievers import BM25Retriever
 from langchain_core.documents import Document

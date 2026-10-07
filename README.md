@@ -1,4 +1,4 @@
-[![CI Pipeline](https://github.com/a-abedin/librechat-persian-rag/actions/workflows/ci.yml/badge.svg)](https://github.com/a-abedin/librechat-persian-rag/actions/workflows/ci.yml)
+[![CI Pipeline](https://github.com/a-abedin/librechat-persian-rag/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/a-abedin/librechat-persian-rag/actions/workflows/ci.yml)
 
 # LibreChat: Persian Domain-Specific RAG Pipeline
 

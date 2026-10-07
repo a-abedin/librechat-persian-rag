@@ -19,3 +19,4 @@ model_configs.json
 
 # Environment variables & secrets
 .env
+.DS_Store
